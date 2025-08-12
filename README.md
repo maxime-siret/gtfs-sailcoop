@@ -13,9 +13,8 @@
 
 ## 🔗 Téléchargement
 
-- **Dernière version (stable)** : `<https://maxime-siret.github.io/gtfs-sailcoop/latest.zip>`
-- **Version datée** : `<https://<ton-user>.github.io/<repo>/sailcoop_glenan_2025-08-12.zip>`
-- **Rapport de validation** : `<https://<ton-user>.github.io/<repo>/validator-report.html>`
+- **Dernière version (stable)** : `<https://maxime-siret.github.io/gtfs-sailcoop/latest.zip>` en date du 12 août 2025
+- **Rapport de validation** : disponible [ici]([url](https://gtfs-validator-results.mobilitydata.org/c47c9ac5-72ed-4354-b232-684cd1811434/report.html))
 
 ---
 
