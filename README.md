@@ -13,8 +13,9 @@
 
 ## 🔗 Téléchargement
 
-- **Dernière version (stable)** : `<https://maxime-siret.github.io/gtfs-sailcoop/latest.zip>` en date du 12 août 2025
+- **Dernière version (stable)** : `<https://maxime-siret.github.io/gtfs-sailcoop/latest.zip>` en date du 25 septembre 2025
 - **Rapport de validation** : disponible [ici](https://gtfs-validator-results.mobilitydata.org/c47c9ac5-72ed-4354-b232-684cd1811434/report.html)
+- **GTFS disponible sur le Point d'Accès National transport.data.gouv.fr** : [ici](https://transport.data.gouv.fr/datasets/navette-a-la-voile-pour-les-glenan)
 
 ---
 
